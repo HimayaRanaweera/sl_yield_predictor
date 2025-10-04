@@ -1,7 +1,7 @@
-streamlit==1.50.0
-pandas==2.2.2
-numpy==2.0.2
-scikit-learn==1.6.1
-xgboost==3.0.5
-lightgbm==4.6.0
-joblib==1.5.2
+streamlit>=1.35,<1.51
+pandas>=2.2,<2.3
+numpy>=1.26,<2.1
+scikit-learn>=1.5,<1.7
+xgboost>=2.0,<3.1
+lightgbm>=4.0,<4.7
+joblib>=1.4,<1.6
