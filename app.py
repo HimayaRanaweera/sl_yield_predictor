@@ -1,6 +1,3 @@
-import os
-os.system("pip install joblib==1.5.2")
-
 import streamlit as st
 import pandas as pd
 import numpy as np
