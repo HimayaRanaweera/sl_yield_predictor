@@ -4,6 +4,7 @@ import pandas as pd
 import numpy as np
 import joblib
 
+
 st.set_page_config(page_title="SL Yield Predictor", page_icon="🌾", layout="centered")
 
 @st.cache_resource
