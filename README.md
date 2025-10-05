@@ -1,5 +1,5 @@
 # Sri Lanka Yield Predictor
-A data mining project that predicts agricultural crop yields in Sri Lanka using machine learning models, which is developed by Group Mining Minds (FDM_MLB_G05).
+A data mining project that predicts agricultural crop yields in Sri Lanka using machine learning models, which is developed by Group Mining Minds.
 
 ## Project Overview
 This project applies data mining techniques to predict crop yield (mt per hectare) in Sri Lanka using agricultural and climatic data. The solution helps farmers, policymakers and planners make informed decisions about production and resource management.
